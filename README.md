@@ -25,3 +25,4 @@ Select <code>install xtmcsh</code> and wait for a minute.<br>
 <br>
 Launch kterm extension and input <code>xtmcsh</code> to get help.<br>
 启动kterm插件并输入<code>xtmcsh</code>来获取帮助
+<br><br>
